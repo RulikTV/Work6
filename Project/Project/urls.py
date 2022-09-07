@@ -1,4 +1,4 @@
-"""Project2 URL Configuration
+"""Project URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/4.1/topics/http/urls/
@@ -19,5 +19,6 @@ from pages import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', views.homePageView),
+    path('', views.index1, name="home"),
+    path('about/', views.index2, name="about"),
 ]
