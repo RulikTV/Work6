@@ -1,34 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bd009bc-418f-465e-9102-c88b924814ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="cab08542-8b18-4dd0-913c-993bef9f7e11" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Project/template/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/Project2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Project/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/Project2/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Project/asgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/Project2/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/Project2/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Project/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/Project2/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Project/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/pages/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/pages/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Project/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/pages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/pages/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/pages/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/pages/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/pages/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/pages/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/pages/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/templates/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/templates/home.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-        <option value="HTML File" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,16 +30,17 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2EQafXkgXqOvZHfUd7whB1W2B6V" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2EQlEoLC9eyNho3zMsLgw7Y3rlc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "DefaultHtmlFileTemplate": "HTML File"
   }
 }]]></component>
   <component name="RunManager">
@@ -74,11 +69,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4bd009bc-418f-465e-9102-c88b924814ec" name="Changes" comment="" />
-      <created>1662530365780</created>
+      <changelist id="cab08542-8b18-4dd0-913c-993bef9f7e11" name="Changes" comment="" />
+      <created>1662535579313</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1662530365780</updated>
+      <updated>1662535579313</updated>
     </task>
     <servers />
   </component>
