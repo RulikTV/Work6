@@ -1,5 +1,5 @@
 """
-ASGI config for pr6_1 project.
+ASGI config for pr6_2 project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 

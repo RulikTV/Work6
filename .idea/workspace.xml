@@ -1,30 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84b9e88f-0e25-416d-8004-b7a39b61f892" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pr6_1/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pr6_1/static/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pr6_1/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pr6_1/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Po-429.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Po-429.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="84b9e88f-0e25-416d-8004-b7a39b61f892" name="Changes" comment="pr6_1">
+      <change afterPath="$PROJECT_DIR$/pr6_1/templates/post_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pr6_1/templates/post_edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pr6_1/templates/post_new.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/Project/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/Project/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/Project/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/Project/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/Project/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/posts/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/posts/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/posts/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/posts/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/posts/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/posts/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/posts/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/posts/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/template/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pr6_1/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/pr6_1/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pr6_1/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pr6_1/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pr6_1/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/pr6_1/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pr6_1/pr6_1/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/pr6_1/pr6_1/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pr6_1/pr6_1/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pr6_1/pr6_1/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pr6_1/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/pr6_1/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pr6_1/templates/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/pr6_1/templates/post_detail.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +78,14 @@
       <option name="presentableId" value="Default" />
       <updated>1663056964139</updated>
     </task>
+    <task id="LOCAL-00001" summary="pr6_1">
+      <created>1663058559388</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663058559388</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +98,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pr6_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="pr6_1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
