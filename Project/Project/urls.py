@@ -1,4 +1,4 @@
-"""pr6_1 URL Configuration
+"""Project URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/4.1/topics/http/urls/
@@ -15,10 +15,9 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from blog import views
+from posts import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', views.BlogListView.as_view(), name='home'),
-    path('post/<int:pk>/', views.BlogDetailView.as_view(), name='post_detail'),
+    path('', views.HomePageView.as_view(), name='home'),
 ]
